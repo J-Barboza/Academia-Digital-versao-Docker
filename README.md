@@ -20,13 +20,13 @@ Projeto:
 
 Para verificar a porta de acesso ao container da Api usa-se o comando
 > Subir o container
->   `docker-compose up -d`
+>   `docker-compose up -d`<br>
 > Verificar a porta disponibilizada
->   `docker port smartgym`
+>   `docker port smartgym`<br>
 > Baixar o container
->   `docker-compose down`
+>   `docker-compose down`<br>
 > Para testar a Api - Documentação
->   `localhost:<porta>/swagger-ui.html`
+>   `localhost:<porta>/swagger-ui.html`<br>
 
 ___
 ## Organizador: [DIO.me](https://web.dio.me/home)
