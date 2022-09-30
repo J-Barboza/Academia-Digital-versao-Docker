@@ -1,5 +1,5 @@
 <img src="https://hermes.digitalinnovation.one/tracks/48e9f018-f7c9-4f0f-b524-cd9223579626.png" alt="Formcao Docker Fundamentals logo" style="height: 100px; width: 100px">
-<h1>Formação Docker Fundamental>
+<h1>Formação Docker Fundamental
 
 <h2>Academia-Digital versão Docker</h2>
 <p>Projeto educacional - Api Java com Spring Boot, Swagger em banco PostgreSql simulando app de uma academia, rodando no Docker</p>
@@ -31,3 +31,4 @@ Para verificar a porta de acesso ao container da Api usa-se o comando
 ___
 ## Organizador: [DIO.me](https://web.dio.me/home)
 ### Mentor: Denilson Bonatti
+
