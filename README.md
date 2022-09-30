@@ -1,7 +1,7 @@
 <img src="https://hermes.digitalinnovation.one/tracks/48e9f018-f7c9-4f0f-b524-cd9223579626.png" alt="Formcao Docker Fundamentals logo" style="height: 100px; width: 100px">
-<h1>Formação Docker Fundamentals>
+<h1>Formação Docker Fundamental>
 
-<h2>Academia-Digital versao Docker</h2>
+<h2>Academia-Digital versão Docker</h2>
 <p>Projeto educacional - Api Java com Spring Boot, Swagger em banco PostgreSql simulando app de uma academia, rodando no Docker</p>
 
 Baseado na Api do projeto [Academia Digital](https://github.com/J-Barboza/academira-digital-dio)
